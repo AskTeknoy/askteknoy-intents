@@ -1,0 +1,13 @@
+{
+    "questions": [
+        "What is the address of CIT-U?",
+        "Where to find CIT-U?", 
+        "Where is the location of CIT-U?"
+
+    ], 
+    "answers": [
+        "The school adress is N. Bacalso Avenue 6000 Cebu City, Philippines", 
+        "CIT-U address is N. Bacalso Avenue 6000 Cebu City, Philippines",
+        "Here's the CIT-U address: N. Bacalso Avenue 6000 Cebu City, Philippines" 
+    ]
+}

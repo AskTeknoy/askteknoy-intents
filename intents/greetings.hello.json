@@ -1,0 +1,16 @@
+{
+    "questions": [ 
+        "Hi", 
+        "Hello, AskTeknoy", 
+        "Hello chatbot",
+        "Hi, may I ask something?", 
+        "hello, wildcat"
+    ], 
+    "answers": [
+        "Hey there!, I'm AskTeknoy your virtual assistant. How may I help you?", 
+        "Hello, I'm AskTeknoy, how may I help you?", 
+        "Hello chatbot assistant, AskTeknoy, ready to help you!", 
+        "Greetings, I'm AskTeknoy, a query chatbot, at your service.", 
+        "AskTeknoy is here, how may I help you?"
+    ]
+}

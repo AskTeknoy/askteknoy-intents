@@ -1,0 +1,17 @@
+{
+    "questions": [
+        "goodbye", 
+        "exit", 
+        "bye bye", 
+        "i must go", 
+        "Thank you",
+        "We appreciate your efforts"
+    ], 
+    "answers": [
+        "I'm glad you appreciate my assistant. ", 
+        "Till next time, AskTeknoy at your service", 
+        "You can ask for more, if you want to.", 
+        "Thanks, have a great day, ahead!", 
+        "Your welcome, you are always welcome."
+    ]
+}

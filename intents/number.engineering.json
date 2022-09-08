@@ -1,0 +1,13 @@
+{
+    "questions" : [
+        "How many engineering courses?",
+        "Number of engineering courses in CIT-U",
+        "Total number of engineering courses."
+    ],
+
+    "answers": [
+        "There are 9 engineering courses.",
+        "Hi, CIT-U have 9 engineering courses available.", 
+        "They offer 9 engineering courses."
+    ]
+}
