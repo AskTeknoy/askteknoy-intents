@@ -1,0 +1,16 @@
+{
+    "questions":[
+        "Date of midterm exam for cluster 1", 
+        "What is the date of midterm exam for cluster 1?", 
+        "When is the midterm exam for cluster 1?",
+        "midterm exam for cluster 1 date.", 
+        "Schedule of midterm exam for cluster 1",
+        "What is schedule of midterm examination for cluster 1"
+    ],
+    "answers":[
+       "September 23, 24 & 25 is the Midterm Examination for Cluster 1",
+       "The schedule for midterm exam is on September 23, 24 and 25 (cluster 1)",
+       "Midterm examination schedule for cluster 1 is on September 23, 24 and 25. "
+    ]
+
+}

@@ -1,0 +1,18 @@
+{
+    "questions": [ 
+        "What are the number of courses in CIT", 
+        "Number of courses in CIT", 
+        "What are the total number of courses?",
+        "Amount of course in CIT-U.", 
+        "Total number of courses.",
+        "The number of college courses."
+    ], 
+    "answers": [ 
+        "There are 32 variety of college courses.", 
+        "The number of courses in CIT-U is 32.",
+        "The number of 32 course available in CIT-U.", 
+        "It is 32 courses available.", 
+        "You can enroll in 32 courses in CIT-U.",
+        "CIT-U have 32 undergraduate."
+    ]
+}

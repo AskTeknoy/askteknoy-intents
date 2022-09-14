@@ -1,0 +1,15 @@
+{
+    "questions": [
+        "What is the total number of deparments in CIT-U",
+        "Total number of departments", 
+        "How many departments", 
+        "Number of departments available"
+    ],
+    
+    "answers": [
+        "There are total number of 10 deparments in CIT-U.", 
+        "They have 10 number of departments.", 
+        "CIT have 10 number of deparments.", 
+        "10 number of departments CIT-U has."
+    ]
+}

@@ -1,0 +1,12 @@
+{
+	"questions": [
+		"What is the link for proof of payment?",
+		"What's the link for proof of payment?",
+		"Proof of payment link"
+	],
+	"answers": [
+		"This is the link for proof of payment for college: http://bit.ly/SendPaymentProof",
+		"Here's the link for proof of payment: http://bit.ly/SendPaymentProof",
+		"I have found one, below is the link for proof of payment: http://bit.ly/SendPaymentProof"
+	]
+}
