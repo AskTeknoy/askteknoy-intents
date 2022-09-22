@@ -1,0 +1,14 @@
+{
+	"questions": [
+		"What is the email address of FAO?",
+		"What is the email of FAO?",
+		"Where can I find the email of FAO?",
+		"What is the email address of the Finance and Accounting Office?",
+		"What is the email of the Finance and Accounting Office?"
+	],
+	"answers": [
+		"Here's the email address of FAO: accounting@cit.edu",
+		"The email address of FAO: accounting@cit.edu",
+		"The email address of the Finance and Accounting Office: accounting@cit.edu"
+	]
+}
