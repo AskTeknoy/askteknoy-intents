@@ -1,0 +1,14 @@
+{
+	"questions": [
+		"What is the email address of SAO?",
+		"What is the email of SAO?",
+		"Where can I find the email of SAO?",
+		"What is the email address of the Student Affairs Office?",
+		"What is the email of the Student Affairs Office?"
+	],
+	"answers": [
+		"Here's the email address of SAO: sao@cit.edu",
+		"The email address of SAO: sao@cit.edu",
+		"The email address of the Student Affairs Office: sao@cit.edu"
+	]
+}
