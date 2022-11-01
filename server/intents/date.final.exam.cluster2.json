@@ -1,0 +1,16 @@
+{
+    "questions":[
+        "Date of final exam for cluster 2", 
+        "What is the date of final exam for cluster 2?", 
+        "When is the final exam for cluster 2?",
+        "final exam for cluster 2 date.", 
+        "Schedule of final exam for cluster 2",
+        "What is schedule of final examination for cluster 2"
+    ],
+    "answers":[
+       "December 21, 22, and 23 is the final examination for Cluster 2",
+       "The schedule for final exam is December 21, 22, and 23 (cluster 2)",
+       "Final examination schedule for cluster 2 is December 21, 22, and 23. "
+    ]
+
+}

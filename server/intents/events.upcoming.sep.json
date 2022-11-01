@@ -1,0 +1,11 @@
+{
+    "questions": [
+        "What are the upcoming school events in September?", 
+        "Is there any events to be held in September?",
+        "What events are to be done in September?"
+
+    ], 
+    "answers": [
+        "Sep 18, 19, 20 - Midterm Exams (Cluster 1) Sep 23 - Faculti Admin Day Sep 27 - Deadline: Submission of Midterm Grades"
+    ]
+}

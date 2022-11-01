@@ -1,0 +1,48 @@
+ @media only screen and (max-width: 1920px){
+    .chat-window {
+       width: 600px;
+       height: auto;
+    }
+
+ }
+
+
+@media only screen and (max-width: 920px){
+    .chat-window {
+       width: 500px;
+       height: 1000px;
+    }
+
+    .fa-file-pdf, 
+   .fa-square-facebook, 
+   .fa-envelope,
+   .fa-globe 
+   {
+   color: #fff;
+   margin: 0 6px 0;
+   font-size: 2rem;
+   }
+
+ }
+
+ @media only screen and (max-width: 687px){
+    .section-title {
+        display: none;
+    }
+
+    
+    .chat-window {
+       width: 400px;
+       height: 700px;
+       margin-top: 80px
+    }
+
+    
+    .chat-window .chat-body {
+        height: calc(650px - (45px + 70px));
+    }
+
+    .chat-window .chat-body .message .message-content {
+      max-width: 13rem;
+    }
+ }

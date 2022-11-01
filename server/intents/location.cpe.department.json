@@ -1,0 +1,12 @@
+{
+    "questions": [
+        "Where is the CpE Deparment?",
+        "Where is the Computer Engineering Department?",
+        "Location of CpE Department",
+        "Location of CPE department",
+        " Location of Computer Engineering Department"
+    ], 
+    "answers" : [
+        "Computer Engineering Department is located at the 3rd level of ST building. Here's an image of the Computer Engineering Deparment:"
+    ]
+}

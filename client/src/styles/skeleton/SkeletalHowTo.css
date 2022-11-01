@@ -1,0 +1,6 @@
+.how-container {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 30%;
+    margin: 10em 0;
+}

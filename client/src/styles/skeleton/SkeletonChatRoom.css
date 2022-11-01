@@ -1,0 +1,7 @@
+.skele-chat-con {
+    margin: 13em 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}

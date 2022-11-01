@@ -1,0 +1,24 @@
+.skeletal-container {
+    position: relative;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    gap: 30%;
+    margin: 5em 0;
+}
+
+ @media only screen and (max-width: 1366px){ 
+
+ }
+
+ @media only screen and (max-width: 1250px) {
+
+ }
+
+ @media only screen and (max-width: 1085px){
+
+ }
+
+ @media only screen and (max-width: 917px) {
+    
+ }
+

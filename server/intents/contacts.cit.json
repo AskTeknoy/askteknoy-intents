@@ -1,0 +1,17 @@
+{
+    "questions": [
+        "What is the telephone number of CIT-U?",
+        "What is the contact number of CIT-U?", 
+        "How can I contact the school?",
+        "How can I make a call with CIT-U?",
+        "How to contact CIT-U?"
+
+    ], 
+    "answers": [
+        "Here's the telephone number of CIT-U: (032) 411 2000",
+        "You can contact the school with this telephone number: (032) 411 2000",
+        "Please call through this number: (032) 411 2000. This is the phone number of CIT-U.",
+        "Call (032) 411 2000.",
+        "To contact the school, please contact this number: (032) 411 2000."
+    ]
+}

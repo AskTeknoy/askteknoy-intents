@@ -1,0 +1,18 @@
+.features-skeletal {
+    display: grid; 
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+    grid-auto-rows: minmax(176px, auto);
+}
+
+.features-container-skeletal { 
+    margin: 10em 0;
+    
+}
+
+.features-container-skeletal .title-skele {
+    display: flex;
+    justify-content: center;
+    margin: 6em 0;
+
+}

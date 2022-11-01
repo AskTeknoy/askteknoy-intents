@@ -1,0 +1,14 @@
+{
+    "questions": [
+        "Show CIT-U map in street view. ", 
+        "Where is the location of CIT-U in street view?", 
+        "Map of CIT in street view", 
+        "Where to location CIT in street view."
+    ], 
+    "answers": [
+        "The school adress is N. Bacalso Avenue 6000 Cebu City, Philippines. Here's the street view: ", 
+        "CIT-U address is N. Bacalso Avenue 6000 Cebu City, Philippines. Here's the street view: ", 
+        "Here's the CIT-U address: N. Bacalso Avenue 6000 Cebu City, Philippines. Here's on the street view:", 
+        "CIT-U is located in N. Bacalso Avenue 6000 Cebu City, Philippines. Here's on the street view"
+    ]
+}

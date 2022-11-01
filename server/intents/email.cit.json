@@ -1,0 +1,14 @@
+{
+    "questions": [
+        "What is the email address of CIT-U?",
+        "What is the email of CIT-U?", 
+        "Where can I find the email of CIT-U?", 
+        "What is the main email address of school?" 
+
+    ], 
+    "answers": [
+        "Here's the email address of CIT-U: info@cit.edu",
+        "The email address of CIT-U: info@cit.edu",
+        "info@cit.edu is the school email address." 
+    ]
+}

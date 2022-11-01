@@ -1,0 +1,402 @@
+/* ///// MEDIA QUERIES ////// */
+
+ @media only screen and (max-width: 1366px){
+    
+    /* ======== intro ========== */
+    .description img { 
+        max-width: 500px;
+    }
+
+    .circle { 
+        width: 75%;
+        height: 93%; 
+        top: 1px; left: 25%; 
+    }
+
+    .description { 
+        margin-top: 10px;
+    }
+
+    .description .content {
+        max-width: 550px;
+    }
+
+    .description .content .title-intro {
+        width: 90%;
+        height: auto;
+        font-size: 50px;
+    }
+
+    .description .content p {
+        max-width: 400px;
+        color:rgb(138, 135, 135);
+        word-wrap: break-word;
+        margin-bottom: 20px;
+        line-height: 30px;
+    }
+
+    /* Feedback Section */
+    .feedback img { 
+        max-width: 500px;
+        top: 600px;
+    }
+
+    .form-section {
+        text-align: center;
+        padding-right: 30px;
+        padding-bottom: 40px;
+    }
+ }
+
+ @media only screen and (max-width: 1259px){
+    
+    /* ====== intro ===== */
+    .circle { 
+        width: 50%;
+        left: 50%;
+    }
+
+    .description .content {
+        max-width: 450px;
+    }
+
+    .description img { 
+        max-width: 450px;
+        padding-top: 70px;
+    }
+
+    .description .content .title-intro { 
+        font-size: 40px;
+    }
+
+    .description .content p {
+        font-size: 13px;
+        line-height: 25px;
+        margin-bottom: 30px;
+    }
+
+    /* feedback section */
+
+    .form-section {
+        text-align: center;
+        padding-right: 30px;
+        padding-bottom: 40px;
+    }
+
+    .feedback img { 
+        max-width: 450px;
+    }
+
+    .feedback .form .send-feedback-title {
+        font-size: 32px;
+    }
+
+    /* how to use section */
+    .how-to-use .how-description {
+        margin-top: 5em;
+        max-width: 45%;
+    }
+
+    .how-to-use .how-img {
+        margin: 0 1.5em;
+    }
+}
+
+@media only screen and (max-width: 1085px) {
+    /* intro section */
+    .circle { 
+        width: 50%;
+        left: 50%;
+        top: 3%;
+        right: 10%;
+        clip-path: circle(70% at right 55%);
+    }
+
+    .description img { 
+        max-width: 420px;
+        top: 33px;
+        left: 0;
+    }
+
+    .circle-container { 
+        width: 355px;
+    }
+
+    .description .content {
+        max-width: 400px;
+    }
+
+    
+
+    .description .content .title-intro { 
+        font-size: 37px;
+    }
+
+    .description .content p {
+        font-size: 12px;
+        line-height: 25px;
+        margin-bottom: 30px;
+    }
+
+    /* features section */
+    .features-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+
+    /* feedback section */
+
+    .form { 
+        margin: 2em auto 0;
+    }
+
+    .form-section {
+        text-align: center;
+        padding-right: 30px;
+        padding-bottom: 40px;
+    }
+
+    .feedback .form .form-section .form-container {
+        width: 500px;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .feedback img { 
+        display: none;
+    }
+    
+    .feedback .form .send-feedback-title {
+        font-size: 30px;
+    }
+
+    .feedback .form p {
+        font-size: 13px;
+        margin-bottom: 30px;
+    }
+
+    .feedback .form .feedback-btn button {
+        margin: 0 auto;
+    }
+}
+
+@media only screen and (max-width: 917px) {
+    
+    /* intro section */
+    section {
+        width: 100%;
+        padding: 0;
+        margin: auto;
+    }
+    
+    .description {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+        align-content: center;
+        margin-top: 10%;
+    }
+
+    .description .content { 
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 10%;
+        max-width: 100%;
+    }
+
+    .description .circle-container img {
+        top: -50px;
+    }
+
+    .description .content p {
+        font-size: 15px;
+
+    }
+    
+    .description .content .title-intro {
+        margin: 0 auto 20px;
+        font-size: 45px;
+        max-width: 500px;
+    }
+
+    .circle { 
+        width: 100%;
+        left: 0;
+        top: 52%;
+        right: 10%;
+        clip-path: circle(40% at center 2%);
+    }
+
+    /* feature section */
+    .features-view {
+        margin-top: 10%;
+    }
+
+    
+    .features-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    /* feedback section */
+    .feedback .form .form-section .form-container {
+        width: 320px;
+    }
+
+    .feedback .form .feedback-btn {
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    .feedback .form .feedback-btn button {
+        padding: 10px 35px;
+    }
+
+    /* how to use section */
+    .how-to-use .how-description {
+        margin-top: 5em;
+        max-width: 45%;
+    }
+
+    .how-to-use .how-img {
+        display: flex;
+        justify-content: center;
+    }
+
+    .how-to-use .how-img img {
+        width: 350px;
+        max-width: 500px;
+        height: auto;
+    }
+
+
+    .how-to-use .how-description p {
+        font-size: 16px;
+        line-height: 30px;
+    }
+
+    .how-to-use .how-description h2 {
+        font-size: 45px;
+        line-height: 30px;
+    }
+}
+
+@media only screen and (max-width: 711px) {
+    .how-to-use {
+        display: block;
+        margin-top: 3em;
+    }
+
+    .how-to-use .how-description {
+        width: 100%;
+        max-width: 500px;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .how-to-use .how-img {
+        margin: 3rem auto;
+    }
+}
+
+@media only screen and (max-width: 694px){
+    /* intro section */
+    section {
+        padding: 5px 0;
+    }
+
+    .chatbot-title { 
+        color: #971921;
+    }
+
+    .circle { 
+        margin-top: 14%;
+        clip-path: circle(30% at center 2%);
+    }
+
+    .description {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+        align-content: center;
+        margin-top: 10%;
+    }
+    
+    .description .content p {
+        font-size: 14px;
+    }
+
+    .description .circle-container img {
+        max-width: 400px;
+        top: -30px;
+    }
+
+
+    /* features section */
+    .features-view {
+        margin-top: 20%;
+    }
+
+    .features-view .title-features .feat-title {
+        font-size: 30px;
+        margin-bottom: 10%;
+    }
+
+    /* features view */
+    .features-container {
+        grid-template-columns: repeat(1, 1fr);
+        gap: 8px;
+        grid-auto-rows: minmax(150px, auto);
+
+    }
+
+    .feedback .form .feedback-btn button {
+        padding: 12px 70px;
+        margin-top: 0;
+    }
+
+    /* how to use section */
+    .how-to-use { 
+        text-align: center;
+        display: block;
+        margin-bottom: 50px;
+        margin-top: 0;
+    }
+
+    .how-to-use .how-description h2{
+        font-size: 45px;
+        margin-bottom: 1.5em;
+    }
+
+    .how-to-use .how-description p {
+        max-width: 650px;
+        font-size: 16px;
+    }
+
+    /* chat section */
+    .chat-section .start-chat-title {
+        font-size: 40px;
+        max-width: 300px;
+        margin-top: 40px;
+    }
+
+    .chat-section {
+        padding: 10px 25px;
+    }
+
+    .chat-section a {
+        font-size: 16px;
+    }
+
+    /* how to use */
+
+    .how-to-use {
+        margin-top: 3em;
+    }
+}

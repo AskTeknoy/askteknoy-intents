@@ -1,0 +1,22 @@
+.feedback-skele {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.feedback-skele .form-skele { 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.feedback-skele .input-skele { 
+    margin: 2em 0;
+}
+
+.feedback-skele .skele-btn {
+    margin: 2em 0;
+}
+
+.feedback-skele .feed-skele-img {
+    margin: 3em auto;
+}

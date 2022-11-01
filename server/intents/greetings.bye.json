@@ -1,0 +1,17 @@
+{
+    "questions": [
+        "goodbye", 
+        "exit", 
+        "Bye", 
+        "i must go", 
+        "Farewell",
+        "We appreciate your efforts"
+    ], 
+    "answers": [
+        "See you, till next time.", 
+        "Till next time, AskTeknoy at your service", 
+        "You can ask for more, if you want to.", 
+        "Bye, have a great day ahead!", 
+        "Goodbye, see you soon!"
+    ]
+}

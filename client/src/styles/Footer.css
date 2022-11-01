@@ -1,0 +1,18 @@
+.footer-block .footer-main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+    margin-top: 5%;
+}
+.footer-main .logos {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-main .logos a img{
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+}

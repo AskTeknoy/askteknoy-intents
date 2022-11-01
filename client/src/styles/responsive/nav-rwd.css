@@ -1,0 +1,11 @@
+@media only screen and (max-width: 1250px) {
+    nav ul li {
+        margin: 0 1.5rem;
+    }
+}
+
+@media only screen and (max-width: 1075px) {
+    nav ul li {
+        margin: 0 1rem;
+    }
+}

@@ -1,0 +1,96 @@
+body {
+    margin: 0 auto; 
+    padding: 40px; 
+    font-family: 'Poppins', sans-serif;
+    min-height: 100vh;
+}
+
+.contact-container {
+    position: relative;
+    margin: 70px 20% 0; 
+    text-align: center;
+    max-width: 100%;
+    height: auto;    
+}  
+
+.contact-container .contact {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    margin-top: -12px;
+}
+
+.contact-container .contact .descript-contact h2 {
+    font-size: 40px;
+    margin-bottom: 0;
+    margin-top: 0;
+    color: #000;
+    font-weight: 700;
+}
+
+.contact-container .contact .descript-contact p {
+    color: rgb(102, 98, 98);
+    margin-bottom: 50px;
+}
+
+.fields-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.fields { 
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 20px;
+    max-width: 90%;
+}
+
+.fields input {
+    width: 418px;
+    height: 30px;
+    margin: 0 8px;
+    padding: 12px 5px;
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
+textarea {
+    width: 88%;
+    font-size: 15px;
+    height: 200px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.contact-container .send-btn {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.contact-container .send-btn button {
+    position: relative;
+    text-decoration: none;
+    background-color: #971921;
+    color: #fff;
+    padding: 10px 40px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+}
+
+.contact-container .send-btn button:hover{
+    background-color: #FBD43E; 
+    color: #971921;
+    font-weight: 800;
+}
+
+.contact-container .contact .alerts {
+    margin-bottom: 20px;
+}
+
+

@@ -1,0 +1,52 @@
+
+
+@media only screen and (max-width: 878px){
+    .contact-container {
+        margin: 50px 15% 0; 
+    }
+    
+    .contact-container .contact {
+        margin-top: 50px;
+    }
+
+    .fields {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        max-width: 100%;
+        max-height: 100%;
+        margin-top: 0;
+    }
+
+    .fields input {
+        margin-top: 20px;
+        max-width: 100%;
+    }
+
+    textarea {
+        width: 100%;
+    }
+
+    .contact-container .send-btn button {
+        padding: 10px 182px;
+
+    }
+
+}
+
+@media only screen and (max-width: 600px){
+    .contact-container {
+        margin: 60px 7% 0; 
+    }
+    
+    textarea {
+       width: 100%;
+    }
+
+    .contact-container .send-btn button {
+        padding: 10px 165px;
+
+    }
+
+}

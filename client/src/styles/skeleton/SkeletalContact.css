@@ -1,0 +1,64 @@
+.contact-skeletal, .contact-skeletal .para-skeletal{
+    display: flex;
+    justify-content: center;
+    margin: 6em auto 0;
+    width: 30%;
+    flex-direction: column;
+}
+
+.contact-skeletal .forms-skeletal{
+    margin: 40% auto;
+    transform: scale(7);
+}
+
+.contact-skeletal .form-skele-btn {
+    display: flex;
+    margin: 0 auto;
+    transform: scaleX(1.5);
+
+}
+@media only screen and (max-width: 1440px) {
+    .contact-skeletal { 
+        margin: 7em auto; 
+    }
+   .contact-skeletal .forms-skeletal {
+        transform: scale(4, 7);
+
+   }
+}
+
+@media only screen and (max-width: 1254px) { 
+    .contact-skeletal { 
+        margin: 1em auto 7em ; 
+    }
+   .contact-skeletal .forms-skeletal {
+        transform: scale(3, 5);
+
+   }
+}
+
+@media only screen and (max-width: 755px) { 
+    .contact-skeletal {
+        margin: 0 auto;
+    }
+
+    .contact-skeletal .para-skeletal {
+        margin: 4em auto 10em;
+    }
+    
+   .contact-skeletal .forms-skeletal {
+        transform: scale(3, 8);
+        margin: 3em auto;
+   }
+
+   .contact-skeletal .form-skele-btn {
+        display: flex;
+        margin: 8em auto 10em;
+        transform: scale(7, 1.5);
+    }
+
+}
+
+@media only screen and (max-width: 755px) {
+
+}

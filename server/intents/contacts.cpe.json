@@ -1,0 +1,18 @@
+{
+    "questions":[
+        "Who is the head chairperson of CPE Computer Engineering Department?",
+        "Who is the head CPE Deparment",
+        "What is the head CPE department name?",
+        "Who is the department head of CPE Computer Engineering Deparrtment?",
+        "CPE Dept. Head?",
+        "Who is the cpe head?"
+    ],
+    "answers":[
+        "Engr. Roel B. Lauron", 
+        "The head of the CPE Department is Engr. Roel B. Lauron.",
+        "Engr. Roel B. Lauron is the CPE department head.",
+        "The head of Computer Engineering Department is Engr. Roel B. Lauron."
+        
+    ]
+
+}
